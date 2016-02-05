@@ -1,0 +1,19 @@
+{
+  "engines": {
+    "node": "~5.4.0"
+  },
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "prestart": "npm install"
+  },
+  "author": "alexandr2110pro@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.2.1",
+    "ws": "^1.0.1"
+  }
+}
