@@ -1,8 +1,4 @@
 /*
-
-That was an additional reminder to use TDD *always*. 
-It would have saved a lot of time today.
-
 Also, I'm not sure, if the "quote" is the required property to print. But it looks like it is.
 
 I didn't used the tick's object fields in the logic of that app because I wasn't sure, what does each field exactly mean and what to expect.
